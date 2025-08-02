@@ -30,8 +30,8 @@
 - [ ] Notifications
 - [ ] Power Manager
 - [ ] Power Menu
-- [ ] Screen Recorder
-- [ ] Screenshot
+- [x] Screen Recorder (OBS)
+- [x] Screenshot (Available by Default)
 - [ ] Settings
 - [ ] System Tray
 - [ ] Terminal
